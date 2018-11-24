@@ -1,0 +1,11 @@
+{
+    "id" : "hope",
+    "version" : "0.1.0",
+    "displayName" : "hope Faction",
+    "description" : "Content related to hope Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
