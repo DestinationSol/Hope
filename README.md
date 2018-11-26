@@ -3,7 +3,7 @@ My module for the factions task
 **Work in Progress**
 
 # Small Hope
-![In-game](Screenshots/smalShipSS.png)
+![In-game](Screenshots/smallShipSS.png)
 ![Collider](Screenshots/smallShipCollider.png)
 # Medium Hope
 ![In-game](Screenshots/mediumShipSS.png)
