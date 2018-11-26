@@ -1,20 +1,20 @@
 {
-  "size": 0.65,
-  "maxLife": 25,
+  "size": 1,
+  "maxLife": 80,
   "type": "std",
-  "price": 250,
+  "price": 1000,
   "ability": {
     "type": "knockBack",
-    "force": 150,
+    "force": 250,
     "rechargeTime": 20
   },
-  "displayName": "Small Hope",
+  "displayName": "Medium Hope",
   "engine": "core:imperialEngine",
   "gunSlots": [
     {
       "position": "0.4 0.5",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
     }
   ],
   "rigidBody":{
@@ -756,7 +756,7 @@
     "particleEmitters":
     [
 		{
-        "position": "0.1 0.4",
+        "position": "0.15 0.3",
         "trigger": "engine",
         "hasLight": true,
         "particle": {
@@ -775,7 +775,7 @@
         ]
       },
 	  {
-        "position": "0.1 0.6",
+        "position": "0.15 0.7",
         "trigger": "engine",
         "hasLight": true,
         "particle": {
