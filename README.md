@@ -2,13 +2,12 @@
 My module for the factions task
 **Work in Progress**
 
-# Screenshots
-- Small Ship
-  ![In-game](Screenshots/smalShipSS.png)
-  ![Collider](Screenshots/smallShipCollider.png)
-- Medium Ship
-  ![In-game](Screenshots/mediumShipSS.png)
-  ![Collider](Screenshots/mediumShipCollider.png)
+# Small Hope
+![In-game](Screenshots/smalShipSS.png)
+![Collider](Screenshots/smallShipCollider.png)
+# Medium Hope
+![In-game](Screenshots/mediumShipSS.png)
+![Collider](Screenshots/mediumShipCollider.png)
 
 # Music
 License for music used are:
