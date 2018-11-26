@@ -11,6 +11,10 @@ My module for the factions task
 ![In-game](Screenshots/largeShipSS.png)
 ![Weapon](Screenshots/largeShipWeapon.png)
 ![Collider](Screenshots/largeShipCollider.png)
+# Capital Hope
+![In-game](Screenshots/capitalShip.png)
+![Weapon](Screenshots/capitalShipWeapon.png)
+![Collider](Screenshots/capitalShipCollider.png)
 
 # Music
 License for music used are:
