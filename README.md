@@ -1,6 +1,5 @@
 # Hope
 My module for the factions task
-**Work in Progress**
 
 # Small Hope
 ![In-game](Screenshots/smallShipSS.png)
