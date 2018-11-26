@@ -1,13 +1,19 @@
 {
 	"Small Hope": {
 		"hull": "hope:hopeSmallShip",
-		"items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
-		"money": 500
+		"items": "6*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
+		"money": 1500
 	},
 	
 	"Medium Hope": {
 		"hull": "hope:hopeMediumShip",
-		"items": "3*rep core:lightArmor-1 core:shield-1 core:blaster-1 core:fixedGun-1 99*core:bulletClip",
-		"money": 2000
+		"items": "12*rep core:mediumArmor-1 core:shield-1 core:blaster-1 core:fixedGun-1 99*core:bulletClip",
+		"money": 5000
+	},
+	
+	"Large Hope": {
+		"hull": "hope:hopeLargeShip",
+		"items": "24*rep core:heavyArmor-1 core:bigShield-1 core:blaster-1 core:blaster-2",
+		"money": 10000
 	}
 }

@@ -1,0 +1,8 @@
+{
+    "projectile": "bullet",
+    "size": 200,
+    "infinite": true,
+    "displayName": "Bullets",
+    "plural": "bullets",
+    "iconName": "bulletClip"
+}

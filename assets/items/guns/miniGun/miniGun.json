@@ -1,0 +1,20 @@
+{
+    "fixed": false,
+    "maxAngleVar": 5,
+    "angleVarDamp": 2,
+    "angleVarPerShot": 1,
+    "timeBetweenShots": 0.05,
+    "reloadTime": 2,
+    "price": 1000,
+    "clipName": "hope:bulletClip",
+    "gunLength": 0.20,
+    "displayName": "Mini-Gun",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:fixedGunShoot0",
+        "core:fixedGunShoot1"
+    ],
+    "reloadSounds": [
+        "core:fixedGunReload"
+    ]
+}
