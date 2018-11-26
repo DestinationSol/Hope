@@ -3,5 +3,11 @@
 		"hull": "hope:hopeSmallShip",
 		"items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
 		"money": 500
+	},
+	
+	"Medium Hope": {
+		"hull": "hope:hopeMediumShip",
+		"items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1 core:fixedGun-1 99*core:bulletClip",
+		"money": 2000
 	}
 }
