@@ -15,5 +15,11 @@
 		"hull": "hope:hopeLargeShip",
 		"items": "24*rep core:heavyArmor-1 core:bigShield-1 core:blaster-1 core:blaster-2",
 		"money": 10000
+	},
+	
+	"Capital Hope": {
+		"hull": "hope:hopeCapitalShip",
+		"items": "24*rep core:advancedArmor-1 core:advancedShield-1 hope:miniGun-1 hope:missileLauncher-2 99*hope:missileClip",
+		"money": 50000
 	}
 }
