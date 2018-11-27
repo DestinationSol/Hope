@@ -3,18 +3,14 @@ My module for the factions task
 
 # Small Hope
 ![In-game](Screenshots/smallShipSS.png)
-![Collider](Screenshots/smallShipCollider.png)
 # Medium Hope
 ![In-game](Screenshots/mediumShipSS.png)
-![Collider](Screenshots/mediumShipCollider.png)
 # Large Hope
 ![In-game](Screenshots/largeShipSS.png)
 ![Weapon](Screenshots/largeShipWeapon.png)
-![Collider](Screenshots/largeShipCollider.png)
 # Capital Hope
 ![In-game](Screenshots/capitalShip.png)
 ![Weapon](Screenshots/capitalShipWeapon.png)
-![Collider](Screenshots/capitalShipCollider.png)
 
 # Music
 License for music used are:
