@@ -1,9 +1,9 @@
 {
-	"menuMusic": [
-		"FromHere"
-	],
-	"gameMusic": [
-		"KingOfTheDesert",
-		"FromHere"
-	]
+  "menuMusic": [
+    "FromHere"
+  ],
+  "gameMusic": [
+    "KingOfTheDesert",
+    "FromHere"
+  ]
 }

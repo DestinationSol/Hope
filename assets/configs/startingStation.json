@@ -1,10 +1,9 @@
 {
-    "hull": "hope:hopeStation",
-    "items": "core:gun core:gun",
-
-    "guard": {
-        "hull": "hope:hopeCapitalShip",
-        "items": "hope:miniGun-1 hope:miniGun-2 core:advancedArmor+core:heavyArmor core:advancedShield+core:bigShield",
-        "density": 2
-    }
+  "hull": "hope:hopeStation",
+  "items": "core:gun core:gun",
+  "guard": {
+    "hull": "hope:hopeCapitalShip",
+    "items": "hope:miniGun-1 hope:miniGun-2 core:advancedArmor+core:heavyArmor core:advancedShield+core:bigShield",
+    "density": 2
+  }
 }
