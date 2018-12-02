@@ -38,7 +38,7 @@ License for music used are:
 # Sprites
 Licence for sprites and textures used are:
 
-- Small Hole - http://clipart-library.com/space-ship-image.html
+- Small Hope - http://clipart-library.com/space-ship-image.html
 - Medium Hope - https://www.clipartmax.com/middle/m2H7H7G6H7A0b1G6_drawn-spaceship-sprite-top-down-spaceship-png/
 - Large Hope - http://millionthvector.blogspot.com/p/free-sprites_12.html
 - Capital Hope - https://www.kisspng.com/png-sprite-spacecraft-low-poly-2d-computer-graphics-sp-991894/
