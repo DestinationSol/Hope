@@ -18,7 +18,7 @@
     },
     {
       "position": "0.475 0.5",
-      "isUnderneathHull": false,
+      "isUnderneathHull": true,
       "allowsRotation": true
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "projectile": "bullet",
+  "projectile": "enhancedBullet",
   "size": 200,
   "infinite": true,
   "displayName": "Bullets",

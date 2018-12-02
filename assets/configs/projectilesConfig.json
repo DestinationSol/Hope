@@ -1,54 +1,61 @@
 {
-  "bullet": {
-    "dmg": 3.2,
-    "spdLen": 10,
-    "dmgType": "bullet",
-    "tex": "core:bullet",
-    "texSz": 0.018,
-    "stretch": true,
-    "collisionEffect": {
-      "effectFile": "core:spark",
-      "size": 0.5,
-      "tex": "core:spark",
-      "tint": "fire"
+	"enhancedBullet": {
+        "dmg": 3.2,
+        "spdLen": 10,
+        "dmgType": "bullet",
+
+        "tex": "hope:bullet",
+        "texSz": 0.018,
+        "stretch": true,
+        "collisionEffect": {
+            "effectFile": "core:spark",
+            "size": 0.7,
+            "tex": "core:spark",
+            "tint": "fire"
+        }
+    },
+	"enhancedMissile": {
+        "dmg": 20,
+        "dmgType": "explosion",
+        "spdLen": 5,
+        "physSize": 1,
+        "guideRotSpd": 1000,
+        "acceleration": 4,
+
+        "tex": "core:missile",
+        "texSz": 0.4,
+        "texOrig": "-.5 0",
+        "lightSz": 0.25,
+
+        "trailEffect": {
+            "effectFile": "core:smoke",
+            "tex": "core:smoke",
+            "floatsUp": true,
+            "tint": "smoke"
+        },
+
+        "bodyEffect": {
+            "effectFile": "core:flame",
+            "size": 0.20,
+            "tex": "core:fire",
+            "tint": "fire"
+        },
+
+        "collisionEffectBg": {
+            "effectFile": "core:explSmoke",
+            "size": 0.7,
+            "tex": "core:smoke",
+            "floatsUp": true,
+            "tint": "smoke"
+        },
+
+        "collisionEffect": {
+            "effectFile": "core:explFire",
+            "size": 0.5,
+            "tex": "core:fire",
+            "tint": "fire"
+        },
+
+        "collisionSound": "core:rocketCollision"
     }
-  },
-  "missile": {
-    "dmg": 150,
-    "dmgType": "explosion",
-    "spdLen": 1,
-    "physSize": 0.1,
-    "guideRotSpd": 180,
-    "acceleration": 2,
-    "tex": "core:missile",
-    "texSz": 0.15,
-    "texOrig": "-.5 0",
-    "lightSz": 0.25,
-    "trailEffect": {
-      "effectFile": "core:smoke",
-      "tex": "core:smoke",
-      "floatsUp": true,
-      "tint": "smoke"
-    },
-    "bodyEffect": {
-      "effectFile": "core:flame",
-      "size": 0.15,
-      "tex": "core:fire",
-      "tint": "fire"
-    },
-    "collisionEffectBg": {
-      "effectFile": "core:explSmoke",
-      "size": 0.6,
-      "tex": "core:smoke",
-      "floatsUp": true,
-      "tint": "smoke"
-    },
-    "collisionEffect": {
-      "effectFile": "core:explFire",
-      "size": 0.4,
-      "tex": "core:fire",
-      "tint": "fire"
-    },
-    "collisionSound": "core:rocketCollision"
-  }
 }
