@@ -22,7 +22,7 @@
         "guideRotSpd": 1000,
         "acceleration": 4,
 
-        "tex": "core:missile",
+        "tex": "hope:missile",
         "texSz": 0.4,
         "texOrig": "-.5 0",
         "lightSz": 0.25,
