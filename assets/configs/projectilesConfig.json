@@ -1,7 +1,7 @@
 {
   "enhancedBullet": {
     "dmg": 3.2,
-    "spdLen": 10,
+    "speed": 10,
     "dmgType": "bullet",
     "tex": "hope:bullet",
     "texSz": 0.018,
@@ -16,7 +16,7 @@
   "enhancedMissile": {
     "dmg": 20,
     "dmgType": "explosion",
-    "spdLen": 5,
+    "speed": 5,
     "physSize": 1,
     "guideRotSpd": 1000,
     "acceleration": 4,
